@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\dotnetdependencies\\dotnetdependencies.csproj": {}
+    "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\DotNetDependencies\\dotnetdependencies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\dotnetdependencies\\dotnetdependencies.csproj": {
+    "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\DotNetDependencies\\dotnetdependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\dotnetdependencies\\dotnetdependencies.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\DotNetDependencies\\dotnetdependencies.csproj",
         "projectName": "dotnetdependencies",
-        "projectPath": "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\dotnetdependencies\\dotnetdependencies.csproj",
+        "projectPath": "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\DotNetDependencies\\dotnetdependencies.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\dotnetdependencies\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Desktop\\BYU\\CSE325\\dotnet-applications\\DotNetDependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
