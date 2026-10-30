@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\bin\Debug\net10.0\dotnetdebugging.exe
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\bin\Debug\net10.0\dotnetdebugging.deps.json
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\bin\Debug\net10.0\dotnetdebugging.runtimeconfig.json
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\bin\Debug\net10.0\dotnetdebugging.dll
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\bin\Debug\net10.0\dotnetdebugging.pdb
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.AssemblyInfo.cs
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.sourcelink.json
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.dll
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\refint\dotnetdebugging.dll
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.pdb
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\dotnetdebugging.genruntimeconfig.cache
+C:\Users\marti\Desktop\BYU\CSE325\dotnet-applications\dotnetdebugging\obj\Debug\net10.0\ref\dotnetdebugging.dll
