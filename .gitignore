@@ -12,3 +12,12 @@
 
 # NuGet
 *.nupkg
+
+# SQLite databases
+**/*.db
+**/*.db-shm
+**/*.db-wal
+
+# Local configuration backups
+**/appsettings.backup.json
+**/RazorPagesMovieContext.backup.txt
